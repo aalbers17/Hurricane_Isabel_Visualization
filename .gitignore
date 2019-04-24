@@ -1,0 +1,6 @@
+*.vti
+/isabel*
+/backup*
+.DS_Store*
+__pycache__/*
+*.xmf
